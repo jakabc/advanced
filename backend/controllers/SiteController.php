@@ -9,6 +9,7 @@ use common\models\LoginForm;
 
 /**
  * Site controller
+ * by jaka
  */
 class SiteController extends Controller
 {
